@@ -52,45 +52,11 @@ export const skillData = [
     skill: <Icon icon="ion:logo-css3" className="display-4" />,
     name: "CSS3",
   },
-  {
-    id: 3,
-    skill: <Icon icon="fa6-brands:js" className="display-4" />,
-    name: "JavaScript",
-  },
-  {
-    id: 4,
-    skill: <Icon icon="ri:bootstrap-fill" className="display-4" />,
-    name: "BootStrap",
-  },
-  {
-    id: 5,
-    skill: <Icon icon="mdi:react" className="display-4" />,
-    name: "React",
-  },
-  {
-    id: 6,
-    skill: <Icon icon="file-icons:styledcomponents" className="display-4" />,
-    name: "Styled Components",
-  },
-  {
-    id: 7,
-    skill: <Icon icon="akar-icons:redux-fill" className="display-4" />,
-    name: "Redux",
-  },
-  {
-    id: 8,
-    skill: <Icon icon="bi:git" className="display-4" />,
-    name: "Git",
-  },
-  {
-    id: 9,
-    skill: <Icon icon="fa6-brands:square-github" className="display-4" />,
-    name: "GitHub",
-  },
+
 ];
 
 // Resume link (string - "https://YourResumeUrl") - I am using CloudFront to share my resume (https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/Introduction.html)
-export const resume = null;
+export const resume = "https://docs.google.com/document/d/1I8rLTmQbonf_nU9x-OhkeS4YRTdumutd/edit?usp=sharing&ouid=112342973979417649162&rtpof=true&sd=true";
 
 /* Projects
  ************************************************************** 

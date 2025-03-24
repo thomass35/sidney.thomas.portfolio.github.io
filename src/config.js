@@ -2,23 +2,23 @@
 import { Icon } from "@iconify/react";
 
 // Navbar Logo image (add your image to the src/images directory and uncomment the line below to import your image)
-// import newLogo from "./images/yourFileName"
+import newLogo from "./images/justmemountain.jpg"
 
 // Hero Images (add your images to the /images directory with the same names)
 import HeroLight from "./images/hero-light.jpg";
 import HeroDark from "./images/hero-dark.jpg";
 
 // Projects Images (add your images to the images directory and import below)
-import Logo from "./images/logo.svg";
+import Logo from "./images/scarredcat.jpg";
 
 /* START HERE
  **************************************************************
   Add your GitHub username (string - "YourUsername") below.
 */
-export const githubUsername = "Your GitHub username here";
+export const githubUsername = "thomass35";
 
 // Navbar Logo image
-export const navLogo = null;
+export const navLogo = newLogo;
 
 /* Main
  ************************************************************** 
@@ -35,7 +35,7 @@ export { HeroDark as Dark };
   Add a second paragraph for the about me section.
 */
 export const moreInfo =
-  "I enjoy learning about technology and helping others use it to improve their lives and be more productive. I built this site with React, React Bootstrap, Redux, and the GitHub REST API.";
+  "I’m a student of both IT and life, constantly learning and adapting. I love to adventure, game, and dive into new hobbies. Most of all, I enjoy troubleshooting and solving problems, even when it drives me crazy ";
 
 /* Skills
  ************************************************************** 
@@ -111,7 +111,7 @@ export const projectCardImages = [
   Add your formspree endpoint below.
   https://formspree.io/
 */
-export const formspreeUrl = "https://formspree.io/f/YourEndpoint";
+export const formspreeUrl = "https://formspree.io/f/xeoakorg";
 
 // Footer icons theme (light or dark)
 export const footerTheme = "dark";

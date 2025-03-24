@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/sidney.thomas.portfolio.github.io/static/css/main.a44dd870.css",
-    "main.js": "/sidney.thomas.portfolio.github.io/static/js/main.049f450f.js",
+    "main.js": "/sidney.thomas.portfolio.github.io/static/js/main.5b8473b1.js",
     "static/media/hero-dark.jpg": "/sidney.thomas.portfolio.github.io/static/media/hero-dark.0777301fa7539cc6bd38.jpg",
     "static/media/hero-light.jpg": "/sidney.thomas.portfolio.github.io/static/media/hero-light.bcbb6831fb205c1b049d.jpg",
     "static/media/justmemountain.jpg": "/sidney.thomas.portfolio.github.io/static/media/justmemountain.98bae28eb360bf35830d.jpg",
@@ -9,10 +9,10 @@
     "static/media/GH.svg": "/sidney.thomas.portfolio.github.io/static/media/GH.b9e9a9aa6f05e9dfe5dcb8991bda3e4d.svg",
     "index.html": "/sidney.thomas.portfolio.github.io/index.html",
     "main.a44dd870.css.map": "/sidney.thomas.portfolio.github.io/static/css/main.a44dd870.css.map",
-    "main.049f450f.js.map": "/sidney.thomas.portfolio.github.io/static/js/main.049f450f.js.map"
+    "main.5b8473b1.js.map": "/sidney.thomas.portfolio.github.io/static/js/main.5b8473b1.js.map"
   },
   "entrypoints": [
     "static/css/main.a44dd870.css",
-    "static/js/main.049f450f.js"
+    "static/js/main.5b8473b1.js"
   ]
 }
